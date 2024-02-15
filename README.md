@@ -1,7 +1,7 @@
 ### Hello there 👋
 <sub><sup>general kenobi<sub><sup>
 
-I'm [ilhs1096069](https://github.com/ilhs1096069) or Jayder, a school account dressed as a personal account
+I'm a school account dressed as a personal account
 
 - 🔭 I’m working on [the Wumpus](https://github.com/thewumper/Wumpus)
 - 🌱 I’m currently learning how to do the github
